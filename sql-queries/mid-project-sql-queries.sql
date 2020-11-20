@@ -109,11 +109,6 @@ FROM house_price_data
 GROUP BY `condition`
 ORDER BY `condition`;
 
-SELECT `condition`, sum(grade)
-FROM house_price_data
-GROUP BY `condition`
-ORDER BY `condition`;
-
 #It seems like that for lower values of condition there is a positive correlation between
 #condition and grade. But this is not really the case for higher values of condition.
 #This can be seen by comparing the averages of grade per condition value.
@@ -194,5 +189,3 @@ FROM house_price_data;
 SELECT *
 FROM priceranking
 WHERE price_ranking = 11;
-
-select distinct floors from house_price_data;
