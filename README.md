@@ -2,7 +2,7 @@
 
 This project is a contribution to the "Data Analytics" Bootcamp of Ironhack Berlin in 2020. If you are interested in other Data Science projects which I have worked on, feel free to browse my [GitHub profile](https://github.com/jast92/).
 
-#### Project Status: [Active]
+#### Project Status: [Completed]
 
 ## Project Intro
 The purpose of this project is to show understanding of the main concepts of analysing raw data and building prediction models in a supervised learning manner. I used Tableau and various packages in Python to create data visualizations. I used furthermore SQL and Python for exploratory data analysis. When building prediction models I made use of Python and various packages to set up different models utilizing linear regression, KNN and Decision Tree.
