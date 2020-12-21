@@ -1,3 +1,5 @@
+[<img src="https://github.com/jast92/predicting-real-estate-prices/blob/main/presentation/presentation_cover_image.png">](https://github.com/jast92/predicting-real-estate-prices/blob/main/presentation/presentation_predicting_real_estate_prices_2020.pdf)
+
 # midterm-project
 
 This project is a contribution to the "Data Analytics" Bootcamp of Ironhack Berlin in 2020. If you are interested in other Data Science projects which I have worked on, feel free to browse my [GitHub profile](https://github.com/jast92/).
